@@ -9,3 +9,6 @@ Goals of HarmonyBSD
 - HarmonyOS NEXT themed user interface
 - stable and unique expirience full desktop expirience,
 - more soon
+
+
+FreeBSD copyright
